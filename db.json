@@ -1,16 +1,10 @@
 {
-  "posts":[
+  "Contacts":[
     {
       "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "name": "Juan Garcia",
+      "email": "juan@mail.com",
+      "phone": 947007927, 
     }
   ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
 }
